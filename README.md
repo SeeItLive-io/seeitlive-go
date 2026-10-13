@@ -7,7 +7,7 @@ contract, Go conventions.
 ## Install
 
 ```bash
-go get github.com/seeitlive/seeitlive-go
+go get github.com/SeeItLive-io/seeitlive-go
 ```
 
 ## Quick start
@@ -21,7 +21,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/seeitlive/seeitlive-go"
+	"github.com/SeeItLive-io/seeitlive-go"
 )
 
 func main() {
